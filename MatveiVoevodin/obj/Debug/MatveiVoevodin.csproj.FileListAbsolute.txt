@@ -1,0 +1,44 @@
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.exe.config
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.exe
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.pdb
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csprojAssemblyReference.cache
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form1.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form2.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form3.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form4.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form5.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form6.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form7.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form8.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Properties.Resources.resources
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csproj.GenerateResource.cache
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csproj.CoreCompileInputs.cache
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.exe
+C:\Users\RMS\source\repos\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.pdb
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.exe.config
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.exe
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\MatveiVoevodin.pdb
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\EntityFramework.dll
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\EntityFramework.xml
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csprojAssemblyReference.cache
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form1.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form2.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form3.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form4.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form5.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form6.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form7.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Form8.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.Properties.Resources.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csproj.GenerateResource.cache
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csproj.CoreCompileInputs.cache
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.csproj.CopyComplete
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.exe
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.pdb
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\obj\Debug\MatveiVoevodin.OperatorForm.resources
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\Xceed.Document.NET.dll
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\Xceed.Words.NET.dll
+D:\3 курс 2 семестр\MONEY\MatveiVoevodin\MatveiVoevodin\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
